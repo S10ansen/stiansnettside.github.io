@@ -96,7 +96,19 @@ header {
 	float: left;
 	font-size:;
 }
-
+.innhold_escape {
+	width: 60%;
+	height: 1000px;
+	margin-top: 50px;
+	margin-left: 15%;
+	background-color: #b3b3b3;
+	float: left;
+	font-size: 20px;
+}
+.Escape_room {
+	margin-left: 20%;
+	
+}
 .spill {
 	margin-left: 20%;
 	margin-right: ;
@@ -133,7 +145,7 @@ header {
 
 .innhold_kilder {
 	width: 60%;
-	height: 700px;
+	height: 600px;
 	margin-top: 50px;
 	margin-left: 15%;
 	background-color: #b3b3b3;
